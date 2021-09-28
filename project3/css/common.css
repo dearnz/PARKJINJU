@@ -1,0 +1,10 @@
+.clearfix::after{ content:''; display: block; clear: both;}
+img{vertical-align: top;}
+/* typography */
+*{
+    -webkit-font-smoothing: antialiased;
+}
+/* layout */
+.container{width: 1200px; margin: 0 auto;}
+
+/* common elemonts */
